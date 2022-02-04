@@ -1,4 +1,4 @@
-# Online-Hry
+# Online-Games
 List of free online games for multiple players.
 
 1.
@@ -13,6 +13,8 @@ List of free online games for multiple players.
 3.
   playingcards.io - <b>Joking Hazard</b>
   https://playingcards.io/game/joking-hazard
+  -play joking hazard game
+  -playingcards.io lets you play multitude of desk games
 
 4.
   Drawing telephone
@@ -25,3 +27,21 @@ List of free online games for multiple players.
  6.
   Secret Hitler
   https://secrethitler.io
+  
+7.
+  Drink Drank Drunk
+  https://play.drinkdrankdrunkthegame.com
+  -drinking game
+
+  
+# Movie - Watchers
+  
+1.
+  TwoSeven
+  https://twoseven.xyz
+  -Synchronized watching of youtube, or basically anything else
+2.
+  Teleparty
+  https://www.teleparty.com
+  -chrome plugin for synchronized watching of Netflix, Hulu...
+  
