@@ -46,3 +46,8 @@ List of free online games for multiple players.
   https://www.teleparty.com
   -chrome plugin for synchronized watching of Netflix, Hulu...
   
+3.
+  Syncplay
+  https://syncplay.pl
+  -for Synchronyze watching of files downloaded on computer
+  
