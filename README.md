@@ -32,6 +32,11 @@ List of free online games for multiple players.
   Drink Drank Drunk
   https://play.drinkdrankdrunkthegame.com
   -drinking game
+  
+8.
+  Drinkcracy
+  www.drinkcracy.com
+  -drinking game where players vote how much to drink for tasks
 
   
 # Movie - Watchers
